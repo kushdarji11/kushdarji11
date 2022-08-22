@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on multiple projects
+- 🔭 I’m developing and working on multiple projects
 - 🌱 I’m currently learning mern stack
 - 👯 I’m looking to collaborate with the company requiring for new grad software developer role
 - 💬 Ask me about Java, React, Node, Python, Firebase, AWS
