@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m developing and working on multiple web development projects                              ![gif3](https://user-images.githubusercontent.com/49285048/187115289-3922cdd0-5092-4c30-a53c-7298002ce0b5.gif)
+- 🔭 I’m developing and working on multiple web development projects                            
 - 🌱 I’m currently learning mern stack and 
 - 👯 I’m looking to collaborate with the company requiring for new grad software developer role
 - 💬 Ask me about Java, React, Node, Python, Firebase, AWS
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🌐   HTML | CSS | Bootstrap | jQuery | React.js | Node.js | Next.js
 - ☁    AWS | Docker | DevOps
 - 🔧   Github | PyCharm | Visual Studio code | Eclipse | Anaconda | Git
-
+  ![gif3](https://user-images.githubusercontent.com/49285048/187115289-3922cdd0-5092-4c30-a53c-7298002ce0b5.gif)
