@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋                                                                                       
 
 Here are some ideas to get you started:
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 🌐   HTML | CSS | Bootstrap | jQuery | React.js | Node.js | Next.js
 - ☁    AWS | Docker | DevOps
 - 🔧   Github | PyCharm | Visual Studio code | Eclipse | Anaconda | Git
+![gif3](https://user-images.githubusercontent.com/49285048/187115289-3922cdd0-5092-4c30-a53c-7298002ce0b5.gif)
