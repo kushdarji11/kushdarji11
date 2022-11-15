@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m developing and working on multiple web development projects                            
 - 🌱 I’m currently learning mern stack and 
 - 👯 I’m looking to collaborate with the company requiring for new grad software developer role
-- 💬 Ask me about Java, React, Node, Python, Firebase, AWS
+- 💬 Ask me about Java, JavaScript, React, Node, Python, Firebase, AWS
 - 📫 How to reach me: kushdarji1618@gmail.com
 - 😄 Experience: http://serverless-kush-app.s3-website.us-east-2.amazonaws.com/#/home 
 - ⚡ Fun fact is I love coding
