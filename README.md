@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m developing and working on multiple web development projects                            
-- 🌱 I’m currently learning mern stack and 
+- 🌱 I’m currently learning what comes to me 
 - 👯 I’m looking to collaborate with the company requiring for new grad software developer role
 - 💬 Ask me about Java, JavaScript, React, Node, Python, Firebase, AWS
 - 📫 How to reach me: kushdarji1618@gmail.com
